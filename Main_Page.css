@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'Theme';
+    src: url('./ALDI-REGULAR.OTF') format('truetype');
+}
+@font-face {
+    font-family: 'Theme_Chs';
+    src: url('./方正粗金陵繁体.TTF') format('truetype');
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Theme';
+    background-image: url('0.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+#menu-overlay{
+    position: fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+    border: none;
+    box-shadow: none;
+    will-change: opacity, visibility;
+}
+#menu-overlay.active{
+    opacity: 1;
+    visibility: visible;
+}
+ul{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+    transition: .5s;
+}
+ul li a{
+    position: relative;
+    display: block;
+    text-align: center;
+    margin: 0 25px;
+    color: #262626;
+    font-size: 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+}
+ul li a.fade-out{
+    opacity: 0;
+}
+ul:hover li{
+    opacity: .2;
+    filter: blur(2px);
+}
+ul li:hover{
+    opacity: 1;
+    filter: blur(0px);
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+}
+#toggleIcon{
+    position: fixed;
+    top: 30px;
+    right: 50px;
+    width: 70px;
+    height: 70px;
+    background:#fff url('./list-outline.jpg');
+    background-size: 50px 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index:1;
+    cursor: pointer;
+}
+#toggleIcon.active{
+    position: fixed;
+    top: 30px;
+    right: 50px;
+    width: 70px;
+    height: 70px;
+    background:#fff url('./close-outline.jpg');
+    background-size: 50px 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index:1;
+    cursor: pointer;
+}

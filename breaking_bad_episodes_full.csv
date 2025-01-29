@@ -1,0 +1,63 @@
+Season,Episode,EpisodeID,TTID,Title,Director,AirDate,Rating,Votes
+1,1,S01E01,tt0959621,Pilot,Vince Gilligan,2008-01-20,9.0,49000
+1,2,S01E02,tt1054724,Cat's in the Bag...,Adam Bernstein,2008-01-27,8.6,36000
+1,3,S01E03,tt1054725,...And the Bag's in the River,Adam Bernstein,2008-02-10,8.7,34000
+1,4,S01E04,tt1054726,Cancer Man,Jim McKay,2008-02-17,8.2,33000
+1,5,S01E05,tt1054727,Gray Matter,Tricia Brock,2008-02-24,8.3,33000
+1,6,S01E06,tt1054728,Crazy Handful of Nothin',Bronwen Hughes,2008-03-02,9.3,38000
+1,7,S01E07,tt1054729,A No-Rough-Stuff-Type Deal,Tim Hunter,2008-03-09,8.8,33000
+2,1,S02E01,tt1232244,Seven Thirty-Seven,Bryan Cranston,2009-03-08,8.6,30000
+2,2,S02E02,tt1232249,Grilled,Charles Haid,2009-03-15,9.3,35000
+2,3,S02E03,tt1232250,Bit by a Dead Bee,Terry McDonough,2009-03-22,8.3,29000
+2,4,S02E04,tt1232251,Down,John Dahl,2009-03-29,8.2,29000
+2,5,S02E05,tt1232252,Breakage,Johan Renck,2009-04-05,8.2,28000
+2,6,S02E06,tt1232253,Peekaboo,Peter Medak,2009-04-12,8.8,31000
+2,7,S02E07,tt1232254,Negro y Azul,Félix Enríquez Alcalá,2009-04-19,8.6,28000
+2,8,S02E08,tt1232255,Better Call Saul,Terry McDonough,2009-04-26,9.2,34000
+2,9,S02E09,tt1232256,4 Days Out,Michelle MacLaren,2009-05-03,9.1,32000
+2,10,S02E10,tt1232245,Over,Phil Abraham,2009-05-10,8.4,28000
+2,11,S02E11,tt1232246,Mandala,Adam Bernstein,2009-05-17,8.9,29000
+2,12,S02E12,tt1232247,Phoenix,Colin Bucksey,2009-05-24,9.3,32000
+2,13,S02E13,tt1232248,ABQ,Adam Bernstein,2009-05-31,9.2,32000
+3,1,S03E01,tt1528116,No Más,Bryan Cranston,2010-03-21,8.5,27000
+3,2,S03E02,tt1615186,Caballo sin Nombre,Adam Bernstein,2010-03-28,8.6,27000
+3,3,S03E03,tt1615187,I.F.T.,Michelle MacLaren,2010-04-04,8.4,27000
+3,4,S03E04,tt1615554,Green Light,Scott Winant,2010-04-11,8.2,27000
+3,5,S03E05,tt1615555,Más,Johan Renck,2010-04-18,8.5,26000
+3,6,S03E06,tt1615556,Sunset,John Shiban,2010-04-25,9.3,30000
+3,7,S03E07,tt1615944,One Minute,Michelle MacLaren,2010-05-02,9.6,37000
+3,8,S03E08,tt1615557,I See You,Colin Bucksey,2010-05-09,8.7,27000
+3,9,S03E09,tt1615558,Kafkaesque,Michael Slovis,2010-05-16,8.4,26000
+3,10,S03E10,tt1615550,Fly,Rian Johnson,2010-05-23,7.9,49000
+3,11,S03E11,tt1615551,Abiquiu,Michelle MacLaren,2010-05-30,8.4,26000
+3,12,S03E12,tt1615552,Half Measures,Adam Bernstein,2010-06-06,9.5,36000
+3,13,S03E13,tt1615553,Full Measure,Vince Gilligan,2010-06-13,9.7,41000
+4,1,S04E01,tt1683084,Box Cutter,Adam Bernstein,2011-07-17,9.2,32000
+4,2,S04E02,tt1683089,Thirty-Eight Snub,Michelle MacLaren,2011-07-24,8.2,27000
+4,3,S04E03,tt1683090,Open House,David Slade,2011-07-31,8.0,27000
+4,4,S04E04,tt1683091,Bullet Points,Colin Bucksey,2011-08-07,8.5,26000
+4,5,S04E05,tt1683092,Shotgun,Michelle MacLaren,2011-08-14,8.6,26000
+4,6,S04E06,tt1683093,Cornered,Michael Slovis,2011-08-21,8.4,26000
+4,7,S04E07,tt1683094,Problem Dog,Peter Gould,2011-08-28,8.8,27000
+4,8,S04E08,tt1683095,Hermanos,Johan Renck,2011-09-04,9.3,31000
+4,9,S04E09,tt1683096,Bug,Terry McDonough,2011-09-11,8.9,28000
+4,10,S04E10,tt1683085,Salud,Michelle MacLaren,2011-09-18,9.6,39000
+4,11,S04E11,tt1683086,Crawl Space,Scott Winant,2011-09-25,9.7,46000
+4,12,S04E12,tt1683087,End Times,Vince Gilligan,2011-10-02,9.5,35000
+4,13,S04E13,tt1683088,Face Off,Vince Gilligan,2011-10-09,9.9,82000
+5,1,S05E01,tt2081647,Live Free or Die,Michael Slovis,2012-07-15,9.2,36000
+5,2,S05E02,tt2301457,Madrigal,Michelle MacLaren,2012-07-22,8.8,31000
+5,3,S05E03,tt2301459,Hazard Pay,Adam Bernstein,2012-07-29,8.8,31000
+5,4,S05E04,tt2301461,Fifty-One,Rian Johnson,2012-08-05,8.8,31000
+5,5,S05E05,tt2301463,Dead Freight,George Mastras,2012-08-12,9.7,45000
+5,6,S05E06,tt2301465,Buyout,Colin Bucksey,2012-08-19,9.0,32000
+5,7,S05E07,tt2301467,Say My Name,Thomas Schnauz,2012-08-26,9.6,42000
+5,8,S05E08,tt2301469,Gliding Over All,Michelle MacLaren,2012-09-02,9.6,40000
+5,9,S05E09,tt2301471,Blood Money,Bryan Cranston,2013-08-11,9.4,38000
+5,10,S05E10,tt2301443,Buried,Michelle MacLaren,2013-08-18,9.2,34000
+5,11,S05E11,tt2301445,Confessions,Michael Slovis,2013-08-25,9.6,41000
+5,12,S05E12,tt2301447,Rabid Dog,Sam Catlin,2013-09-01,9.1,36000
+5,13,S05E13,tt2301449,To'hajiilee,Michelle MacLaren,2013-09-08,9.8,61000
+5,14,S05E14,tt2301451,Ozymandias,Rian Johnson,2013-09-15,10.0,238000
+5,15,S05E15,tt2301453,Granite State,Peter Gould,2013-09-22,9.7,59000
+5,16,S05E16,tt2301455,Felina,Vince Gilligan,2013-09-29,9.9,152000

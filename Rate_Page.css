@@ -1,0 +1,45 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+#left-section, #right-section {
+    position: relative;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#left-section {
+    float: left;
+    background-color: white;
+}
+#right-section {
+    float: right;
+    background-color: white;
+}
+#left-section img, #right-section img {
+    max-width: 100%;
+    max-height: 110vh;
+    object-fit: contain;
+}
+#toggleIcon {
+    position: fixed;
+    top: 30px;
+    right: 50px;
+    width: 70px;
+    height: 70px;
+    background: #fff url('./close-outline.jpg') no-repeat center;
+    background-size: 50px 50px;
+    z-index: 1;
+    cursor: pointer;
+    transition: opacity 1s ease-in-out;
+}
+.fade-out{
+    opacity: 0;
+}
+.fade-in{
+    opacity: 1;
+}

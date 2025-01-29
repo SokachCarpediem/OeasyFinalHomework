@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Theme';
+    src: url('./ALDI-REGULAR.OTF') format('opentype');
+}
+@font-face {
+    font-family: 'Theme_Chs';
+    src: url('./方正粗金陵繁体.TTF') format('truetype');
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Theme';
+    background-image: url('director.png');
+    background-size: 75% 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+#toggleIcon {
+    position: fixed;
+    top: 30px;
+    right: 50px;
+    width: 70px;
+    height: 70px;
+    background: #fff url('./close-outline.jpg') no-repeat center;
+    background-size: 50px 50px;
+    z-index: 1;
+    cursor: pointer;
+    transition: opacity 1s ease-in-out;
+}
+.fade-out{
+    opacity: 0;
+}
+.fade-in{
+    opacity: 1;
+}

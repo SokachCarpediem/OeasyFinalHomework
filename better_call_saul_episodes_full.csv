@@ -1,0 +1,64 @@
+Season,Episode,EpisodeID,TTID,Title,Director,AirDate,Rating,Votes
+1,1,S01E01,tt3464768,Uno,Vince Gilligan,2015-02-08,8.4,25000
+1,2,S01E02,tt3857028,Mijo,Michelle MacLaren,2015-02-09,8.9,24000
+1,3,S01E03,tt3858672,Nacho,Terry McDonough,2015-02-16,8.6,20000
+1,4,S01E04,tt3864892,Hero,Colin Bucksey,2015-02-23,8.3,19000
+1,5,S01E05,tt3876380,Alpine Shepherd Boy,Nicole Kassell,2015-03-02,8.0,18000
+1,6,S01E06,tt3866650,Five-O,Adam Bernstein,2015-03-09,9.4,28000
+1,7,S01E07,tt3884286,Bingo,Larysa Kondracki,2015-03-16,8.6,18000
+1,8,S01E08,tt3895284,RICO,Colin Bucksey,2015-03-23,8.6,17000
+1,9,S01E09,tt3895286,Pimento,Thomas Schnauz,2015-03-30,9.4,23000
+1,10,S01E10,tt3895288,Marco,Peter Gould,2015-04-06,8.6,18000
+2,1,S02E01,tt3824148,Switch,Thomas Schnauz,2016-02-15,8.2,16000
+2,2,S02E02,tt4462674,Cobbler,Terry McDonough,2016-02-22,8.5,15000
+2,3,S02E03,tt4462676,Amarillo,Scott Winant,2016-02-29,8.2,14000
+2,4,S02E04,tt4462678,Gloves Off,Adam Bernstein,2016-03-07,8.9,16000
+2,5,S02E05,tt4462682,Rebecca,John Shiban,2016-03-14,7.9,14000
+2,6,S02E06,tt4462680,Bali Ha'i,Michael Slovis,2016-03-21,8.4,14000
+2,7,S02E07,tt4462684,Inflatable,Colin Bucksey,2016-03-28,8.3,14000
+2,8,S02E08,tt4462686,Fifi,Larysa Kondracki,2016-04-04,8.3,14000
+2,9,S02E09,tt4462688,Nailed,Peter Gould,2016-04-11,9.3,17000
+2,10,S02E10,tt4462690,Klick,Vince Gilligan,2016-04-18,9.0,16000
+3,1,S03E01,tt5554490,Mabel,Vince Gilligan,2017-04-10,8.1,15000
+3,2,S03E02,tt5579594,Witness,Vince Gilligan,2017-04-17,9.0,16000
+3,3,S03E03,tt5719532,Sunk Costs,John Shiban,2017-04-24,8.4,14000
+3,4,S03E04,tt5719534,Sabrosito,Thomas Schnauz,2017-05-01,8.9,15000
+3,5,S03E05,tt5719536,Chicanery,Daniel Sackheim,2017-05-08,9.7,31000
+3,6,S03E06,tt5719540,Off Brand,Keith Gordon,2017-05-15,8.4,13000
+3,7,S03E07,tt5719542,Expenses,Thomas Schnauz,2017-05-22,8.2,13000
+3,8,S03E08,tt5719546,Slip,Adam Bernstein,2017-06-05,8.5,13000
+3,9,S03E09,tt5719544,Fall,Minkie Spiro,2017-06-12,8.8,14000
+3,10,S03E10,tt5570804,Lantern,Peter Gould,2017-06-19,9.2,17000
+4,1,S04E01,tt7073996,Smoke,Minkie Spiro,2018-08-06,8.2,14000
+4,2,S04E02,tt7073998,Breathe,Michelle MacLaren,2018-08-13,8.8,14000
+4,3,S04E03,tt7074002,Something Beautiful,Daniel Sackheim,2018-08-20,8.4,13000
+4,4,S04E04,tt7074006,Talk,John Shiban,2018-08-27,8.2,13000
+4,5,S04E05,tt7074010,Quite a Ride,Michael Morris,2018-09-03,8.5,13000
+4,6,S04E06,tt7074012,Piñata,Andrew Stanton,2018-09-10,8.5,13000
+4,7,S04E07,tt7074020,Something Stupid,Deborah Chow,2018-09-17,8.3,13000
+4,8,S04E08,tt7074022,Coushatta,Jim McKay,2018-09-24,8.8,14000
+4,9,S04E09,tt7074032,Wiedersehen,Vince Gilligan,2018-10-01,9.1,14000
+4,10,S04E10,tt7074030,Winner,Adam Bernstein,2018-10-08,9.6,21000
+5,1,S05E01,tt8772146,Magic Man,Bronwen Hughes,2020-02-23,8.7,16000
+5,2,S05E02,tt8772148,50% Off,Norberto Barba,2020-02-24,8.7,15000
+5,3,S05E03,tt8772190,The Guy for This,Michael Morris,2020-03-02,9.0,16000
+5,4,S05E04,tt8772192,Namaste,Gordon Smith,2020-03-09,8.5,14000
+5,5,S05E05,tt8772194,Dedicado a Max,Jim McKay,2020-03-16,8.5,14000
+5,6,S05E06,tt8772196,Wexler v. Goodman,Michael Morris,2020-03-23,9.3,18000
+5,7,S05E07,tt8772216,JMM,Melissa Bernstein,2020-03-30,9.0,16000
+5,8,S05E08,tt8772218,Bagman,Vince Gilligan,2020-04-06,9.7,29000
+5,9,S05E09,tt8772220,Bad Choice Road,Thomas Schnauz,2020-04-13,9.7,29000
+5,10,S05E10,tt8772224,Something Unforgivable,Peter Gould,2020-04-20,9.4,21000
+6,1,S06E01,tt11630814,Wine and Roses,Michael Morris,2022-04-18,8.7,22000
+6,2,S06E02,tt12187028,Carrot and Stick,Vince Gilligan,2022-04-18,9.1,22000
+6,3,S06E03,tt12187032,Rock and Hard Place,Gordon Smith,2022-04-25,9.7,36000
+6,4,S06E04,tt12187036,Hit and Run,Rhea Seehorn,2022-05-02,8.6,19000
+6,5,S06E05,tt12187034,Black and Blue,Melissa Bernstein,2022-05-09,8.1,19000
+6,6,S06E06,tt12187038,Axe and Grind,Giancarlo Esposito,2022-05-16,8.2,18000
+6,7,S06E07,tt12187040,Plan and Execution,Thomas Schnauz,2022-05-23,9.9,62000
+6,8,S06E08,tt12187044,Point and Shoot,Vince Gilligan,2022-07-11,9.8,43000
+6,9,S06E09,tt12187042,Fun and Games,Michael Morris,2022-07-18,9.4,28000
+6,10,S06E10,tt12187048,Nippy,Michelle MacLaren,2022-07-25,8.5,26000
+6,11,S06E11,tt12188568,Breaking Bad,Thomas Schnauz,2022-08-01,9.0,28000
+6,12,S06E12,tt12188572,Waterworks,Vince Gilligan,2022-08-08,9.4,30000
+6,13,S06E13,tt11630828,Saul Gone,Peter Gould,2022-08-15,9.8,61000
