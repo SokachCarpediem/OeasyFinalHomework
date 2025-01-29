@@ -133,14 +133,3 @@ html, body {
 .wrapper .button.home .icon i{
     font-size: 30px;
 }
-#toggleIcon {
-    position: fixed;
-    top: 30px;
-    right: 50px;
-    width: 70px;
-    height: 70px;
-    background: #fff url('./close-outline.jpg') no-repeat center;
-    background-size: 50px 50px;
-    z-index: 1;
-    cursor: pointer;
-}
