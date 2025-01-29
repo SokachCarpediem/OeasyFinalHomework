@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'Theme';
+    src: url('./ALDI-REGULAR.OTF') format('truetype');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Theme';
+}
+html, body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+}
+.wrapper .button{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin: 0 15px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor:pointer;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-out;
+}
+.wrapper .button:hover{
+    width:200px;
+}
+.wrapper .button .icon{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+}
+.wrapper .button.facebook:hover .icon{
+    background: #4267B2;
+}
+.wrapper .button.facebook span{
+    color: #4267B2;
+}
+.wrapper .button.facebook:hover{
+    width:200px;
+}
+.wrapper .button.twitter:hover .icon{
+    background: #1DA1F2;
+}
+.wrapper .button.twitter span{
+    color: #1DA1F2;
+}
+.wrapper .button.twitter:hover{
+    width:190px;
+}
+.wrapper .button.instagram:hover .icon{
+    background: #E1306C;
+}
+.wrapper .button.instagram span{
+    color: #E1306C;
+}
+.wrapper .button.instagram:hover{
+    width:210px;
+}
+.wrapper .button.github:hover .icon{
+    background: #333;
+}
+.wrapper .button.github span{
+    color: #333;
+}
+.wrapper .button.github:hover{
+    width:170px;
+}
+.wrapper .button.youtube:hover .icon{
+    background: #FF0000;
+}
+.wrapper .button.youtube span{
+    color: #FF0000;
+}
+.wrapper .button.youtube:hover{
+    width:190px;
+}
+.wrapper .button .icon i{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+}
+.wrapper .button:hover .icon i{
+    color: #fff
+}
+.wrapper .button span{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 60px;
+    margin-left: 3px;
+    transition: all 0.3s ease-out;
+}
+.wrapper .button.home{
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    width: 70px;
+    height: 70px;
+    background: #fff;
+    border-radius: 50px;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+    transition: none;
+}
+.wrapper .button.home .icon{
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    line-height: 70px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    background: #333;
+    color: #fff;
+}
+.wrapper .button.home a{
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+.wrapper .button.home .icon i{
+    font-size: 30px;
+}
+#toggleIcon {
+    position: fixed;
+    top: 30px;
+    right: 50px;
+    width: 70px;
+    height: 70px;
+    background: #fff url('./close-outline.jpg') no-repeat center;
+    background-size: 50px 50px;
+    z-index: 1;
+    cursor: pointer;
+}
